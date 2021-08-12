@@ -50,10 +50,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-NodeJS          12 hrs 34 mins  ██████████████████████░░░   87.96 %
-HTML         1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+NodeJS       12 hrs 34 mins ██████████████████    87.96 %
+
+HTML         1 hr 15 mins   ██████████            55.83 %
+
+JavaScript   15 mins        ███████████████       63.85 %
+
+CSS          11 mins        ███████████           58.37 %
 ```
 
 <!--END_SECTION:waka-->
